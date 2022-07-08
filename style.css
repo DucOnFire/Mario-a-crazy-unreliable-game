@@ -1,0 +1,12 @@
+#divinstructions{
+    top: 0px;
+    margin-top:0px;
+    width: 100%;
+    position: sticky;
+    display: inline-block;
+}
+body{
+    background-image: url("mario.jpg");
+    background-position: center;
+    background-size: cover;
+}
